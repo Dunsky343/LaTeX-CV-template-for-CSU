@@ -52,4 +52,3 @@ git clone https://github.com/Dunsky343/CSU-cv-latex-template.git
 
 ## 致谢
 本模板基于[Reborn14](https://github.com/Reborn14)开源的 [nnu-cv-latex-template](https://github.com/Reborn14/nnu-cv-latex-template)模板修改而来。感谢原作者出色的底层排版工作！
-
