@@ -26,7 +26,7 @@
 
 1. 克隆本仓库：
 ```bash
-git clone https://github.com/Dunsky343/CSU-cv-latex-template.git
+git clone https://github.com/Dunsky343/LaTeX-CV-template-for-CSU.git
 ```
 
 2. 编辑 `main.tex` 中的内容，对文档样式和内容进行修改：
